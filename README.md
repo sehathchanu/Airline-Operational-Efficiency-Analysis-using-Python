@@ -6,15 +6,15 @@ This project analyzes airline operational performance using Python. The goal is 
 
 Objectives
 * Analyze flight delay patterns
-*Identify main causes of delays
-*Evaluate airline operational efficiency
-*Visualize trends over time and across months
+* Identify main causes of delays
+* Evaluate airline operational efficiency
+* Visualize trends over time and across months
 
 🛠️ Technologies Used
-*Python
-*Pandas (Data Cleaning & Analysis)
-*Seaborn & Matplotlib (Data Visualization)
-*Jupyter Notebook
+* Python
+* Pandas (Data Cleaning & Analysis)
+* Seaborn & Matplotlib (Data Visualization)
+* Jupyter Notebook
 
 📂 Dataset Description
 The dataset contains airline operational statistics including:
