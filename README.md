@@ -5,7 +5,7 @@
 This project analyzes airline operational performance using Python. The goal is to uncover insights about flight delays, efficiency, and key factors affecting airline operations using real-world data.
 
 Objectives
-*Analyze flight delay patterns
+* Analyze flight delay patterns
 *Identify main causes of delays
 *Evaluate airline operational efficiency
 *Visualize trends over time and across months
