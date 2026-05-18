@@ -14,7 +14,7 @@ This project analyzes airline operational performance using Python. The goal is 
 * Python
 * Pandas (Data Cleaning & Analysis)
 * Seaborn & Matplotlib (Data Visualization)
-* Jupyter Notebook
+* Google Colab
 
 ## 📂 Dataset Description
 The dataset contains airline operational statistics including:
